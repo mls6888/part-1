@@ -13,6 +13,5 @@ cel = atof(temp);
 fah = ((cel * 1.8) + 32);
 printf("%f° in Celsius is equivalent to %f° Fahrenheit.\n", cel, fah);
 
-
   return 0;
 }
